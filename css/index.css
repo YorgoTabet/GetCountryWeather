@@ -1,0 +1,18 @@
+#selectionBar{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+#weatherCard{
+    margin: auto;
+    width: 50%;
+    margin-top: 10pt;
+}
+#weatherTable{
+    height: inherit;
+    width: inherit;
+    margin: inherit;
+}
+#weatherDiv{
+    font-size: large;
+}
